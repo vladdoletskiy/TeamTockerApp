@@ -3,7 +3,7 @@ import IntroAppPage from "./introApp/page";
 
 export default async function Home() {
 	return (
-		<div>
+		<div className="w-full">
 			<IntroAppPage />
 		</div>
 	);
